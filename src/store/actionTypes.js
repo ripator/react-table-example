@@ -1,0 +1,8 @@
+export const SET_TABLE_DATA = 'SET_TABLE_DATA';
+export const SORT_TABLE_DATA = 'SORT_TABLE_DATA';
+export const TOGGLE_CHECKBOX = 'TOGGLE_CHECKBOX';
+export const ALL_TOGGLE_CHECKBOX = 'ALL_TOGGLE_CHECKBOX';
+export const UPDATE_NAME = 'UPDATE_NAME';
+export const TOGGLE_STATUS = 'TOGGLE_STATUS';
+export const OPEN_MODAL = 'OPEN_MODAL';
+export const CLOSE_MODAL = 'CLOSE_MODAL';

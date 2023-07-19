@@ -1,0 +1,339 @@
+[
+   {
+     "id": 109846,
+     "name": "Website SEO spelling and grammar audit",
+     "status": "completed",
+     "active": false,
+     "updated_at": "1688030819254",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 81,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/crawler-automation.svg",
+         "automation_name": "Crawler"
+       },
+       {
+         "index": 1,
+         "automation_id": 14,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/seo.svg",
+         "automation_name": "SEO meta tags"
+       },
+       {
+         "index": 2,
+         "automation_id": 15,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/get-words-count.svg",
+         "automation_name": "Content analysis"
+       }
+     ],
+     "tags": null
+   },
+   {
+     "id": 109845,
+     "name": "New workflow 29.06.23 09:13:14",
+     "status": "completed",
+     "active": false,
+     "updated_at": "1688030598248",
+     "storage": 2286786,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 43,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/scrape-recipe.svg",
+         "automation_name": "Recipe"
+       },
+       {
+         "index": 1,
+         "automation_id": 101,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/accessibility-audit.svg",
+         "automation_name": "Accessibility audit"
+       }
+     ],
+     "tags": [
+       {
+         "id": 1465,
+         "name": "scraping",
+         "color": "#f35d5d"
+       },
+       {
+         "id": 1464,
+         "name": "scraping recipe",
+         "color": "#f35d5d"
+       },
+       {
+         "id": 1463,
+         "name": "hexact",
+         "color": "#f35d5d"
+       },
+       {
+         "id": 62,
+         "name": "hex",
+         "color": "#fb6f6f"
+       }
+     ]
+   },
+   {
+     "id": 109844,
+     "name": "New workflow 29.06.23 09:12:15",
+     "is_public": false,
+     "status": "completed",
+     "active": false,
+     "updated_at": "1688030549902",
+     "storage": 2286613,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 43,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/scrape-recipe.svg",
+         "automation_name": "Recipe"
+       },
+       {
+         "index": 1,
+         "automation_id": 101,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/accessibility-audit.svg",
+         "automation_name": "Accessibility audit"
+       }
+     ],
+     "tags": null
+   },
+   {
+     "id": 109793,
+     "name": "New workflow 28.06.23 03:50:38",
+     "status": "completed",
+     "active": false,
+     "updated_at": "1687967462573",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 43,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/scrape-recipe.svg",
+         "automation_name": "Recipe"
+       }
+     ],
+     "tags": null
+   },
+   {
+     "id": 109792,
+     "name": "New workflow 28.06.23 03:49:03",
+     "status": "PAUSED",
+     "active": false,
+     "updated_at": "1687967647204",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 31,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/google-maps.svg",
+         "automation_name": "Google Maps"
+       },
+       {
+         "index": 1,
+         "automation_id": 101,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/accessibility-audit.svg",
+         "automation_name": "Accessibility audit"
+       }
+     ],
+     "tags": [
+       {
+         "id": 62,
+         "name": "hex",
+         "color": "#fb6f6f"
+       }
+     ]
+   },
+   {
+     "id": 109791,
+     "name": "New workflow 28.06.23 03:47:53",
+     "status": "PAUSED",
+     "active": false,
+     "updated_at": "1687967655214",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 43,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/scrape-recipe.svg",
+         "automation_name": "Recipe"
+       },
+       {
+         "index": 1,
+         "automation_id": 101,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/accessibility-audit.svg",
+         "automation_name": "Accessibility audit"
+       }
+     ],
+     "tags": null
+   },
+   {
+     "id": 109790,
+     "name": "New workflow 28.06.23 03:45:27",
+     "status": "PAUSED",
+     "active": false,
+     "updated_at": "1687967656448",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 1,
+         "automation_id": 44,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/text-transformation.svg",
+         "automation_name": "Text transformation"
+       },
+       {
+         "index": 2,
+         "automation_id": 143,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/ChatGPT.svg",
+         "automation_name": "ChatGPT (GPT-3.5)"
+       }
+     ],
+     "tags": null
+   },
+   {
+     "id": 109584,
+     "name": "New workflow 27.06.23 12:58:51",
+     "status": "completed",
+     "active": false,
+     "updated_at": "1687967611258",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 46,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/google-sheet-import.svg",
+         "automation_name": "Google Sheets Import"
+       }
+     ],
+     "tags": null
+   },
+   {
+     "id": 109078,
+     "name": "New workflow 22.06.23 07:52:30",
+     "status": "completed",
+     "active": false,
+     "updated_at": "1687420357876",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 43,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/scrape-recipe.svg",
+         "automation_name": "Recipe"
+       }
+     ],
+     "tags": null
+   },
+   {
+     "id": 109077,
+     "name": "New workflow 22.06.23 07:50:51",
+     "status": "completed",
+     "active": false,
+     "updated_at": "1687420261820",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 43,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/scrape-recipe.svg",
+         "automation_name": "Recipe"
+       }
+     ],
+     "tags": null
+   },
+   {
+     "id": 109076,
+     "name": "New workflow 22.06.23 07:49:26",
+     "status": "completed",
+     "active": false,
+     "updated_at": "1687420174783",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 43,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/scrape-recipe.svg",
+         "automation_name": "Recipe"
+       }
+     ],
+     "tags": [
+       {
+         "id": 1464,
+         "name": "scraping recipe",
+         "color": "#f35d5d"
+       }
+     ]
+   },
+   {
+     "id": 109075,
+     "name": "New workflow 22.06.23 07:48:29",
+     "status": "completed",
+     "active": false,
+     "updated_at": "1687420132601",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 43,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/scrape-recipe.svg",
+         "automation_name": "Recipe"
+       }
+     ],
+     "tags": [
+       {
+         "id": 1465,
+         "name": "scraping",
+         "color": "#f35d5d"
+       }
+     ]
+   },
+   {
+     "id": 109073,
+     "name": "New workflow 22.06.23 07:40:55",
+     "status": "completed",
+     "active": false,
+     "updated_at": "1687419676712",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 43,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/scrape-recipe.svg",
+         "automation_name": "Recipe"
+       }
+     ],
+     "tags": null
+   },
+   {
+     "id": 109072,
+     "name": "New workflow 22.06.23 07:40:39",
+     "status": "completed",
+     "active": false,
+     "updated_at": "1687419652742",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 43,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/scrape-recipe.svg",
+         "automation_name": "Recipe"
+       }
+     ],
+     "tags": null
+   },
+   {
+     "id": 109071,
+     "name": "New workflow 22.06.23 07:39:58",
+     "status": "PAUSED",
+     "active": false,
+     "updated_at": "1687419635684",
+     "storage": 0,
+     "steps": [
+       {
+         "index": 0,
+         "automation_id": 43,
+         "automation_icon_url": "https://storage.googleapis.com/hexomatic-automation-icons/scrape-recipe.svg",
+         "automation_name": "Recipe"
+       }
+     ],
+     "tags": null
+   }
+ ]
